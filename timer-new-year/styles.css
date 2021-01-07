@@ -1,0 +1,80 @@
+body{
+	font-family: 'Open Sans',sans-serif;
+	background-color: rgb(146, 141, 141);
+}
+
+#container{
+	width: 1000px;
+	height: 550px;
+	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(images.jpg);
+	margin: 20px auto;	
+}
+
+#container1{
+	width: 1000px;
+	height: 550px;
+	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(colourful-back.jpg);
+	margin: 20px auto;	
+}
+#main{
+	width: 520px;
+	height: 520px;
+	
+	margin: 0 auto;
+	top: 20px;
+	position: relative;
+	
+    padding: 5px;  
+}
+    #Msg1{
+        height: 150px;
+        width: auto;
+        padding: 5px;
+       
+    }
+
+    #Msg2{
+        height: 150px;
+        width: auto;
+        padding: 5px;
+       
+    }
+    #para_msg1{
+        font-size: 40px;
+        font-family: 'Yellowtail', cursive; 
+      text-align: center;
+      color: rgb(68, 2, 46);
+      
+     
+      height: 100px;
+      width: auto;
+    }
+
+    #count_msg{
+        height: 150px;
+        width: auto;
+        border-radius: 5px;
+        padding: 5px;   
+    }
+
+    #para_msg2{
+        font-size: 50px;
+        font-family: 'DM Sans', sans-serif;
+      text-align: center;
+      color: rgb(68, 2, 46);
+      height: 80px;
+      width: auto;
+      
+    
+    }
+
+    #para_msg3{
+        font-size: 40px;
+        font-family: 'Pirata One', cursive;
+      text-align: center;
+      color: rgb(68, 2, 46);
+      height: 100px;
+      width: auto;
+    }
+
+   
